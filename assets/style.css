@@ -480,7 +480,7 @@ li {
 .image {
   height: 400px;
   width: 300px;
-  background: url('file:///Users/jillianrees/Documents/GitHub/event-poster/assets/imgs/IMG_8637.jpg') no-repeat;
+  background: url("https://i.pinimg.com/originals/2b/5a/51/2b5a5199935ecfcacdd68ba27a3fe66b.jpg") no-repeat;
   background-size: cover;
   background-position: center;
   margin: 5% auto;
